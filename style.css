@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+}
+body{
+    height: auto;
+}
+.nav-wrapper{
+    background: none;
+    background-color: #fafafa;
+}
+nav ul li:hover{
+    transition: 1s;
+    background-color: rgb(100, 17, 17);
+    font-weight: bolder;
+    
+}
+nav ul li a:hover{
+    transform: none;
+    color: white
+}
+.container{
+    background-color: black;
+}
+.page-footer{
+    background-color: black;
+}
+nav ul{
+    margin-right: 100px;
+    color: black;
+}
+nav ul li{
+    margin-right: 50px;
+}
